@@ -1,0 +1,5 @@
+Nombre:ronald<br>Comentarioseste es mi primer proyecto sobre comentarios<hr>
+Nombre:Ronald<br>ComentariosEste es mi primer proyecto sobre crear comentarios en una pagina Web<hr>
+Nombre:Ronald<br>ComentariosEste es mi primer proyecto para dejar comentarios en una pagina web, utilizando el MVC 
+                       
+                                   <(°_°)><hr>
